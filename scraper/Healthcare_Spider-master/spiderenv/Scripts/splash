@@ -1,0 +1,4 @@
+#!c:\users\utkarsh\desktop\demo_spider\spiderenv\scripts\python.exe
+
+from splash.server import main
+main()
